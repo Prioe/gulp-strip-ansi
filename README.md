@@ -7,7 +7,7 @@
 Install via [npm](https://npmjs.org/package/gulp-strip-ansi):
 
 ```
-$ npm install gulp-cat --save-dev
+npm install gulp-strip-ansi --save-dev
 ```
 
 ## Example
