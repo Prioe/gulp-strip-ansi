@@ -4,7 +4,7 @@
 
 ## Installation
 
-Install via [npm](https://npmjs.org/package/gulp-cat):
+Install via [npm](https://npmjs.org/package/gulp-strip-ansi):
 
 ```
 $ npm install gulp-cat --save-dev
