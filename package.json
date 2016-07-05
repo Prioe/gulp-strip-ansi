@@ -1,0 +1,33 @@
+{
+  "name": "gulp-strip-ansi",
+  "version": "0.1.0",
+  "description": "Gulp plugin to strip ansi from files",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prioe/gulp-strip-ansi.git"
+  },
+  "keywords": [
+    "gulpplugin"
+  ],
+  "author": "Michael Albertz <michael@prio.one> (http://www.prio.one/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prioe/gulp-strip-ansi/issues"
+  },
+  "homepage": "https://github.com/Prioe/gulp-strip-ansi#readme",
+  "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "gulp": "^3.9.1",
+    "mocha": "^2.5.3",
+    "gulp-coffee": "^2.3.2"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "strip-ansi": "^3.0.1",
+    "through2": "^2.0.1"
+  }
+}
