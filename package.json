@@ -1,6 +1,6 @@
 {
   "name": "gulp-strip-ansi",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Gulp plugin to strip ansi from files",
   "main": "index.js",
   "scripts": {
