@@ -4,7 +4,6 @@
   "description": "Gulp plugin to strip ansi from files",
   "main": "index.js",
   "scripts": {
-    "postinstall": "gulp build",
     "test": "mocha"
   },
   "repository": {
